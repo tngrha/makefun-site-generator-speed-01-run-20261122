@@ -91,6 +91,6 @@ created inside `run()`.
 
 ## Local git
 
-- Code commit (all entry files incl. this HANDOFF): `__CODE_SHA__`
+- Code commit (all entry files incl. this HANDOFF): `a696b6b5d1d5e94686ceee08284ab4ad54b12178`
 - HEAD after recording the sha above: see `git log` (the following commit only
   fills in the sha line in this file).
